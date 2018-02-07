@@ -1,0 +1,687 @@
+[04-Aug-2016 00:36:44 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php on line 9
+[04-Aug-2016 03:03:41 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php on line 10
+[04-Aug-2016 04:02:41 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php on line 10
+[04-Aug-2016 04:49:26 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php on line 10
+[05-Aug-2016 00:30:12 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php on line 10
+[05-Aug-2016 07:02:51 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Bigcommerce\Api\Client' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/dashboard.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/dashboard.php on line 16
+[05-Aug-2016 07:04:11 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Bigcommerce\Api\Client' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/dashboard.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/dashboard.php on line 16
+[05-Aug-2016 07:05:55 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/dashboard.php on line 25
+[05-Aug-2016 07:06:11 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Bigcommerce\Api\Client' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/dashboard.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/dashboard.php on line 22
+[05-Aug-2016 07:08:41 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Bigcommerce\Api\Client' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/dashboard.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/dashboard.php on line 22
+[05-Aug-2016 07:10:09 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Bigcommerce\Api\Client' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/dashboard.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/dashboard.php on line 22
+[05-Aug-2016 07:11:21 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Bigcommerce\Api\Connection' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 7
+[05-Aug-2016 07:19:56 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php on line 10
+[05-Aug-2016 07:25:00 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Bigcommerce\Api\Connection' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 7
+[05-Aug-2016 07:25:45 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Bigcommerce\Api\Connection' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 7
+[05-Aug-2016 07:27:39 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Bigcommerce\Api\Connection' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 7
+[05-Aug-2016 07:29:05 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Bigcommerce\Api\Connection' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 7
+[05-Aug-2016 07:31:43 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Bigcommerce\Api\Connection' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 7
+[05-Aug-2016 07:34:03 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Bigcommerce\Api\Connection' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 7
+[05-Aug-2016 07:39:55 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Bigcommerce\Api\Connection' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 7
+[05-Aug-2016 07:40:03 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Bigcommerce\Api\Connection' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 7
+[05-Aug-2016 07:40:04 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Bigcommerce\Api\Connection' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 7
+[05-Aug-2016 07:44:14 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Bigcommerce\Api\Connection' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 7
+[05-Aug-2016 07:45:25 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Bigcommerce\Api\Connection' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 7
+[05-Aug-2016 07:46:40 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Bigcommerce\Api\Connection' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 7
+[05-Aug-2016 07:55:30 America/Chicago] PHP Fatal error:  Uncaught Bigcommerce\Api\NetworkError: <url> malformed in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php:277
+Stack trace:
+#0 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php(371): Bigcommerce\Api\Connection->handleResponse()
+#1 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(261): Bigcommerce\Api\Connection->get('/products')
+#2 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(472): Bigcommerce\Api\Client::getCollection('/products', 'Product')
+#3 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/dashboard.php(19): Bigcommerce\Api\Client::getProducts()
+#4 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php on line 277
+[05-Aug-2016 07:56:21 America/Chicago] PHP Fatal error:  Uncaught Bigcommerce\Api\NetworkError: <url> malformed in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php:277
+Stack trace:
+#0 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php(371): Bigcommerce\Api\Connection->handleResponse()
+#1 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(261): Bigcommerce\Api\Connection->get('/products')
+#2 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(472): Bigcommerce\Api\Client::getCollection('/products', 'Product')
+#3 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/dashboard.php(20): Bigcommerce\Api\Client::getProducts()
+#4 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php on line 277
+[05-Aug-2016 07:58:33 America/Chicago] PHP Fatal error:  Uncaught Bigcommerce\Api\NetworkError: <url> malformed in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php:277
+Stack trace:
+#0 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php(371): Bigcommerce\Api\Connection->handleResponse()
+#1 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(261): Bigcommerce\Api\Connection->get('/products')
+#2 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(472): Bigcommerce\Api\Client::getCollection('/products', 'Product')
+#3 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/dashboard.php(20): Bigcommerce\Api\Client::getProducts()
+#4 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php on line 277
+[05-Aug-2016 07:58:36 America/Chicago] PHP Fatal error:  Uncaught Bigcommerce\Api\NetworkError: <url> malformed in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php:277
+Stack trace:
+#0 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php(371): Bigcommerce\Api\Connection->handleResponse()
+#1 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(261): Bigcommerce\Api\Connection->get('/products')
+#2 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(472): Bigcommerce\Api\Client::getCollection('/products', 'Product')
+#3 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/dashboard.php(20): Bigcommerce\Api\Client::getProducts()
+#4 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php on line 277
+[05-Aug-2016 07:58:40 America/Chicago] PHP Fatal error:  Uncaught Bigcommerce\Api\NetworkError: <url> malformed in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php:277
+Stack trace:
+#0 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php(371): Bigcommerce\Api\Connection->handleResponse()
+#1 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(261): Bigcommerce\Api\Connection->get('/products')
+#2 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(472): Bigcommerce\Api\Client::getCollection('/products', 'Product')
+#3 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/dashboard.php(20): Bigcommerce\Api\Client::getProducts()
+#4 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php on line 277
+[05-Aug-2016 07:59:11 America/Chicago] PHP Fatal error:  Uncaught Bigcommerce\Api\NetworkError: <url> malformed in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php:277
+Stack trace:
+#0 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php(371): Bigcommerce\Api\Connection->handleResponse()
+#1 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(261): Bigcommerce\Api\Connection->get('/products')
+#2 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(472): Bigcommerce\Api\Client::getCollection('/products', 'Product')
+#3 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/dashboard.php(19): Bigcommerce\Api\Client::getProducts()
+#4 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php on line 277
+[06-Aug-2016 00:00:57 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php on line 10
+[06-Aug-2016 00:01:03 America/Chicago] PHP Fatal error:  Uncaught Bigcommerce\Api\NetworkError: <url> malformed in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php:277
+Stack trace:
+#0 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php(371): Bigcommerce\Api\Connection->handleResponse()
+#1 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(261): Bigcommerce\Api\Connection->get('/products')
+#2 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(472): Bigcommerce\Api\Client::getCollection('/products', 'Product')
+#3 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/dashboard.php(19): Bigcommerce\Api\Client::getProducts()
+#4 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php on line 277
+[06-Aug-2016 00:02:05 America/Chicago] PHP Fatal error:  Uncaught Bigcommerce\Api\NetworkError: <url> malformed in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php:277
+Stack trace:
+#0 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php(371): Bigcommerce\Api\Connection->handleResponse()
+#1 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(261): Bigcommerce\Api\Connection->get('/products')
+#2 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(472): Bigcommerce\Api\Client::getCollection('/products', 'Product')
+#3 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/dashboard.php(19): Bigcommerce\Api\Client::getProducts()
+#4 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php on line 277
+[06-Aug-2016 00:02:21 America/Chicago] PHP Fatal error:  Uncaught Bigcommerce\Api\NetworkError: <url> malformed in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php:277
+Stack trace:
+#0 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php(371): Bigcommerce\Api\Connection->handleResponse()
+#1 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(261): Bigcommerce\Api\Connection->get('/products')
+#2 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(472): Bigcommerce\Api\Client::getCollection('/products', 'Product')
+#3 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/dashboard.php(19): Bigcommerce\Api\Client::getProducts()
+#4 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php on line 277
+[06-Aug-2016 00:02:38 America/Chicago] PHP Fatal error:  Uncaught Bigcommerce\Api\NetworkError: <url> malformed in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php:277
+Stack trace:
+#0 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php(371): Bigcommerce\Api\Connection->handleResponse()
+#1 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(261): Bigcommerce\Api\Connection->get('/products')
+#2 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(472): Bigcommerce\Api\Client::getCollection('/products', 'Product')
+#3 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/dashboard.php(19): Bigcommerce\Api\Client::getProducts()
+#4 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php on line 277
+[06-Aug-2016 00:04:45 America/Chicago] PHP Fatal error:  Uncaught Bigcommerce\Api\NetworkError: <url> malformed in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php:277
+Stack trace:
+#0 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php(371): Bigcommerce\Api\Connection->handleResponse()
+#1 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(261): Bigcommerce\Api\Connection->get('/products')
+#2 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(472): Bigcommerce\Api\Client::getCollection('/products', 'Product')
+#3 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php(22): Bigcommerce\Api\Client::getProducts()
+#4 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php on line 277
+[06-Aug-2016 00:05:04 America/Chicago] PHP Fatal error:  Uncaught Bigcommerce\Api\NetworkError: <url> malformed in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php:277
+Stack trace:
+#0 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php(371): Bigcommerce\Api\Connection->handleResponse()
+#1 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(261): Bigcommerce\Api\Connection->get('/products')
+#2 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(472): Bigcommerce\Api\Client::getCollection('/products', 'Product')
+#3 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php(22): Bigcommerce\Api\Client::getProducts()
+#4 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php on line 277
+[06-Aug-2016 00:07:47 America/Chicago] PHP Fatal error:  Uncaught Bigcommerce\Api\NetworkError: <url> malformed in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php:277
+Stack trace:
+#0 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php(371): Bigcommerce\Api\Connection->handleResponse()
+#1 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(261): Bigcommerce\Api\Connection->get('/products')
+#2 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(472): Bigcommerce\Api\Client::getCollection('/products', 'Product')
+#3 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php(22): Bigcommerce\Api\Client::getProducts()
+#4 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php on line 277
+[06-Aug-2016 00:09:29 America/Chicago] PHP Fatal error:  Uncaught Bigcommerce\Api\NetworkError: <url> malformed in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php:277
+Stack trace:
+#0 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php(371): Bigcommerce\Api\Connection->handleResponse()
+#1 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(261): Bigcommerce\Api\Connection->get('/products')
+#2 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(472): Bigcommerce\Api\Client::getCollection('/products', 'Product')
+#3 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php(22): Bigcommerce\Api\Client::getProducts()
+#4 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php on line 277
+[06-Aug-2016 00:11:05 America/Chicago] PHP Fatal error:  Uncaught Bigcommerce\Api\NetworkError: <url> malformed in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php:277
+Stack trace:
+#0 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php(371): Bigcommerce\Api\Connection->handleResponse()
+#1 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(261): Bigcommerce\Api\Connection->get('/products')
+#2 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(472): Bigcommerce\Api\Client::getCollection('/products', 'Product')
+#3 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php(22): Bigcommerce\Api\Client::getProducts()
+#4 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/dashboard.php(18): include('/home/shopifyex...')
+#5 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php on line 277
+[06-Aug-2016 00:11:40 America/Chicago] PHP Fatal error:  Uncaught Bigcommerce\Api\NetworkError: <url> malformed in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php:277
+Stack trace:
+#0 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php(371): Bigcommerce\Api\Connection->handleResponse()
+#1 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(261): Bigcommerce\Api\Connection->get('/products')
+#2 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(472): Bigcommerce\Api\Client::getCollection('/products', 'Product')
+#3 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php(22): Bigcommerce\Api\Client::getProducts()
+#4 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/dashboard.php(18): include('/home/shopifyex...')
+#5 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php on line 277
+[06-Aug-2016 03:05:17 America/Chicago] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 56
+[06-Aug-2016 03:24:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 33
+[06-Aug-2016 03:26:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 33
+[06-Aug-2016 03:35:38 America/Chicago] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 111
+[06-Aug-2016 03:37:10 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 10
+[06-Aug-2016 03:37:32 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 10
+[06-Aug-2016 03:46:10 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 10
+[06-Aug-2016 03:50:33 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 10
+[06-Aug-2016 03:51:24 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 10
+[06-Aug-2016 03:51:40 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 10
+[06-Aug-2016 03:51:43 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 10
+[06-Aug-2016 03:53:17 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 10
+[06-Aug-2016 03:56:17 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 10
+[06-Aug-2016 03:57:22 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 10
+[06-Aug-2016 03:58:55 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 10
+[07-Aug-2016 23:24:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 53
+[09-Aug-2016 04:26:05 America/Chicago] PHP Warning:  curl_setopt() expects parameter 2 to be integer, string given in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/dashboard.php on line 27
+[09-Aug-2016 04:26:05 America/Chicago] PHP Warning:  curl_setopt() expects parameter 2 to be integer, string given in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/dashboard.php on line 28
+[09-Aug-2016 04:49:52 America/Chicago] PHP Warning:  curl_setopt() expects parameter 2 to be integer, string given in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/dashboard.php on line 27
+[09-Aug-2016 04:49:52 America/Chicago] PHP Warning:  curl_setopt() expects parameter 2 to be integer, string given in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/dashboard.php on line 28
+[10-Aug-2016 03:27:14 America/Chicago] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 99
+[10-Aug-2016 04:31:52 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ')' in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 101
+[19-Aug-2016 01:30:00 America/Chicago] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/dashboard.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/dashboard.php on line 35
+[19-Aug-2016 04:08:52 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php on line 8
+[19-Aug-2016 04:12:01 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php on line 8
+[19-Aug-2016 04:15:38 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php on line 8
+[19-Aug-2016 04:18:59 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'vendor\Silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php on line 8
+[19-Aug-2016 04:22:53 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php on line 10
+[19-Aug-2016 04:27:59 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php on line 10
+[19-Aug-2016 04:32:38 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php on line 10
+[19-Aug-2016 04:45:18 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php on line 10
+[19-Aug-2016 04:45:19 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php on line 10
+[19-Aug-2016 04:46:40 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php on line 10
+[19-Aug-2016 04:48:08 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Silex' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php on line 10
+[19-Aug-2016 04:48:09 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Silex' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php on line 10
+[19-Aug-2016 04:52:47 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php on line 10
+[19-Aug-2016 05:14:27 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php on line 10
+[19-Aug-2016 05:18:01 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php on line 10
+[19-Aug-2016 05:26:55 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php on line 10
+[19-Aug-2016 05:28:13 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php on line 10
+[19-Aug-2016 05:39:40 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php on line 10
+[19-Aug-2016 05:43:20 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php on line 10
+[19-Aug-2016 05:51:43 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php on line 10
+[19-Aug-2016 06:05:09 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php on line 10
+[19-Aug-2016 06:05:09 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php on line 10
+[19-Aug-2016 06:05:57 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php on line 10
+[19-Aug-2016 06:11:14 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php on line 10
+[19-Aug-2016 06:14:31 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php on line 10
+[19-Aug-2016 06:22:07 America/Chicago] PHP Warning:  require_once(/bigcpublicapp/vendor/autoload.php): failed to open stream: No such file or directory in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php on line 2
+[19-Aug-2016 06:22:07 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/bigcpublicapp/vendor/autoload.php' (include_path='.:/opt/php70/lib/php') in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php on line 2
+[19-Aug-2016 06:23:34 America/Chicago] PHP Warning:  require_once(/vendor/autoload.php): failed to open stream: No such file or directory in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php on line 2
+[19-Aug-2016 06:23:34 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/vendor/autoload.php' (include_path='.:/opt/php70/lib/php') in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php on line 2
+[19-Aug-2016 06:24:19 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php on line 10
+[19-Aug-2016 06:28:52 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php on line 10
+[19-Aug-2016 06:28:53 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php on line 10
+[19-Aug-2016 06:31:28 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php on line 10
+[19-Aug-2016 06:34:30 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php on line 10
+[19-Aug-2016 06:56:14 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'silex\Application' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/index.php on line 10
+[19-Aug-2016 07:15:16 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 22
+[19-Aug-2016 07:22:11 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 22
+[19-Aug-2016 07:25:04 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 22
+[19-Aug-2016 07:25:44 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 22
+[19-Aug-2016 08:07:54 America/Chicago] PHP Parse error:  syntax error, unexpected 'clientID' (T_STRING) in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 72
+[19-Aug-2016 08:09:29 America/Chicago] PHP Parse error:  syntax error, unexpected 'client_id' (T_STRING) in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 72
+[19-Aug-2016 08:11:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'token' (T_STRING) in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 74
+[19-Aug-2016 08:15:29 America/Chicago] PHP Parse error:  syntax error, unexpected 'req' (T_STRING) in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 81
+[19-Aug-2016 08:28:11 America/Chicago] PHP Parse error:  syntax error, unexpected '$access_token' (T_VARIABLE), expecting ')' in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 71
+[19-Aug-2016 08:29:12 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ')' in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 74
+[19-Aug-2016 08:29:12 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ')' in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 74
+[19-Aug-2016 08:31:46 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ')' in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 74
+[19-Aug-2016 23:11:48 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ')' in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 74
+[19-Aug-2016 23:38:12 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Bigcommerce' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 21
+[19-Aug-2016 23:41:27 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Connection' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 8
+[19-Aug-2016 23:44:00 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 11
+[19-Aug-2016 23:44:20 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 11
+[19-Aug-2016 23:44:20 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 11
+[19-Aug-2016 23:45:44 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Connection' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 8
+[20-Aug-2016 00:01:59 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Connection' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 8
+[20-Aug-2016 00:02:55 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Connection' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 8
+[20-Aug-2016 00:04:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::call() in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 23
+[20-Aug-2016 00:06:32 America/Chicago] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 23
+[20-Aug-2016 00:13:33 America/Chicago] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 23
+[20-Aug-2016 01:05:22 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 35
+[20-Aug-2016 01:06:20 America/Chicago] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 39
+[20-Aug-2016 01:07:08 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ')' in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 43
+[20-Aug-2016 01:08:24 America/Chicago] PHP Parse error:  syntax error, unexpected '’' (T_STRING), expecting ',' or ')' in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 43
+[20-Aug-2016 01:09:37 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 45
+[20-Aug-2016 01:13:46 America/Chicago] PHP Parse error:  syntax error, unexpected '$a' (T_VARIABLE), expecting ')' in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 46
+[20-Aug-2016 01:15:05 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 46
+[20-Aug-2016 01:29:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::call() in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 22
+[20-Aug-2016 01:36:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::get() in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 22
+[20-Aug-2016 01:39:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::this() in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 22
+[20-Aug-2016 01:40:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::Call() in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 22
+[20-Aug-2016 01:43:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::post() in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 22
+[20-Aug-2016 01:47:22 America/Chicago] PHP Fatal error:  Uncaught Bigcommerce\Api\NetworkError: <url> malformed in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php:277
+Stack trace:
+#0 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php(371): Bigcommerce\Api\Connection->handleResponse()
+#1 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(261): Bigcommerce\Api\Connection->get('/products')
+#2 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(472): Bigcommerce\Api\Client::getCollection('/products', 'Product')
+#3 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php(23): Bigcommerce\Api\Client::getProducts()
+#4 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php on line 277
+[20-Aug-2016 01:50:42 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Bigcommerce\Api\Connection' not found in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 9
+[20-Aug-2016 01:58:33 America/Chicago] PHP Fatal error:  Uncaught Error: Cannot use object of type Bigcommerce\Api\Connection as array in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 12
+[20-Aug-2016 02:00:33 America/Chicago] PHP Fatal error:  Uncaught Error: Cannot use object of type Bigcommerce\Api\Connection as array in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 12
+[20-Aug-2016 03:39:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method Bigcommerce\Api\Connection::setCipher() in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 28
+[20-Aug-2016 03:39:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method Bigcommerce\Api\Connection::setCipher() in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 28
+[20-Aug-2016 03:39:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method Bigcommerce\Api\Connection::setCipher() in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 28
+[20-Aug-2016 03:44:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method Bigcommerce\Api\Connection::setCipher() in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 28
+[20-Aug-2016 04:17:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::get() in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 22
+[20-Aug-2016 04:22:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::get() in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 26
+[20-Aug-2016 04:44:50 America/Chicago] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/dashboard.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/dashboard.php on line 27
+[20-Aug-2016 04:46:50 America/Chicago] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/dashboard.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/dashboard.php on line 27
+[20-Aug-2016 04:51:13 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/dashboard.php on line 30
+[21-Aug-2016 23:25:16 America/Chicago] PHP Fatal error:  Uncaught Bigcommerce\Api\NetworkError: <url> malformed in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php:277
+Stack trace:
+#0 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php(371): Bigcommerce\Api\Connection->handleResponse()
+#1 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(288): Bigcommerce\Api\Connection->get('/products/count')
+#2 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(565): Bigcommerce\Api\Client::getCount('/products/count')
+#3 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php(52): Bigcommerce\Api\Client::getProductsCount()
+#4 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php on line 277
+[22-Aug-2016 00:05:18 America/Chicago] PHP Fatal error:  Uncaught Bigcommerce\Api\NetworkError: <url> malformed in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php:277
+Stack trace:
+#0 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php(371): Bigcommerce\Api\Connection->handleResponse()
+#1 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(261): Bigcommerce\Api\Connection->get('/products')
+#2 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(472): Bigcommerce\Api\Client::getCollection('/products', 'Product')
+#3 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php(53): Bigcommerce\Api\Client::getProducts()
+#4 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php on line 277
+[22-Aug-2016 00:10:20 America/Chicago] PHP Fatal error:  Uncaught Bigcommerce\Api\NetworkError: <url> malformed in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php:277
+Stack trace:
+#0 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php(371): Bigcommerce\Api\Connection->handleResponse()
+#1 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(261): Bigcommerce\Api\Connection->get('/products')
+#2 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(472): Bigcommerce\Api\Client::getCollection('/products', 'Product')
+#3 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php(53): Bigcommerce\Api\Client::getProducts()
+#4 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php on line 277
+[22-Aug-2016 00:12:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::getProducts() in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 53
+[22-Aug-2016 00:16:56 America/Chicago] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Bigcommerce\Api\Client::configureBasicAuth() must be of the type array, null given, called in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php on line 82 and defined in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php:130
+Stack trace:
+#0 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(82): Bigcommerce\Api\Client::configureBasicAuth(NULL)
+#1 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php(51): Bigcommerce\Api\Client::configure(NULL)
+#2 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php on line 130
+[22-Aug-2016 00:24:14 America/Chicago] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php:79
+Stack trace:
+#0 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php(51): Bigcommerce\Api\Client::configure(Object(stdClass))
+#1 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php on line 79
+[22-Aug-2016 00:26:59 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 51
+[22-Aug-2016 00:28:46 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ')' in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 52
+[22-Aug-2016 00:34:39 America/Chicago] PHP Fatal error:  Uncaught Bigcommerce\Api\NetworkError: <url> malformed in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php:277
+Stack trace:
+#0 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php(371): Bigcommerce\Api\Connection->handleResponse()
+#1 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(261): Bigcommerce\Api\Connection->get('/products')
+#2 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(472): Bigcommerce\Api\Client::getCollection('/products', 'Product')
+#3 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php(53): Bigcommerce\Api\Client::getProducts()
+#4 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Connection.php on line 277
+[22-Aug-2016 00:36:18 America/Chicago] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Bigcommerce\Api\Client::configureBasicAuth() must be of the type array, string given, called in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php on line 82 and defined in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php:130
+Stack trace:
+#0 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(82): Bigcommerce\Api\Client::configureBasicAuth('1jisp5t73gt9fi1...')
+#1 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php(50): Bigcommerce\Api\Client::configure('1jisp5t73gt9fi1...')
+#2 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php on line 130
+[22-Aug-2016 00:55:07 America/Chicago] PHP Fatal error:  Uncaught Exception: 'auth_token' must be provided in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php:101
+Stack trace:
+#0 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(80): Bigcommerce\Api\Client::configureOAuth(Array)
+#1 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php(53): Bigcommerce\Api\Client::configure(Array)
+#2 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php on line 101
+[22-Aug-2016 00:58:45 America/Chicago] PHP Fatal error:  Uncaught Exception: 'username' must be provided in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php:137
+Stack trace:
+#0 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(82): Bigcommerce\Api\Client::configureBasicAuth(Array)
+#1 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php(53): Bigcommerce\Api\Client::configure(Array)
+#2 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php on line 137
+[22-Aug-2016 01:01:15 America/Chicago] PHP Fatal error:  Uncaught Exception: 'username' must be provided in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php:137
+Stack trace:
+#0 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(82): Bigcommerce\Api\Client::configureBasicAuth(Array)
+#1 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php(53): Bigcommerce\Api\Client::configure(Array)
+#2 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php on line 137
+[22-Aug-2016 01:17:41 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 59
+[22-Aug-2016 01:20:55 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 59
+[22-Aug-2016 04:37:17 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php on line 31
+[22-Aug-2016 04:40:44 America/Chicago] PHP Fatal error:  Uncaught Exception: 'auth_token' must be provided in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php:101
+Stack trace:
+#0 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(80): Bigcommerce\Api\Client::configureOAuth(Array)
+#1 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php(39): Bigcommerce\Api\Client::configure(Array)
+#2 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/test.php(3): include('/home/shopifyex...')
+#3 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php on line 101
+[22-Aug-2016 04:49:42 America/Chicago] PHP Fatal error:  Uncaught Exception: 'auth_token' must be provided in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php:101
+Stack trace:
+#0 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(80): Bigcommerce\Api\Client::configureOAuth(Array)
+#1 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php(33): Bigcommerce\Api\Client::configure(Array)
+#2 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/test.php(7): require('/home/shopifyex...')
+#3 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php on line 101
+[22-Aug-2016 04:54:11 America/Chicago] PHP Fatal error:  Uncaught Exception: 'auth_token' must be provided in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php:101
+Stack trace:
+#0 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(80): Bigcommerce\Api\Client::configureOAuth(Array)
+#1 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php(33): Bigcommerce\Api\Client::configure(Array)
+#2 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/test.php(7): include('/home/shopifyex...')
+#3 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php on line 101
+[22-Aug-2016 04:58:46 America/Chicago] PHP Fatal error:  Uncaught Exception: 'auth_token' must be provided in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php:101
+Stack trace:
+#0 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(80): Bigcommerce\Api\Client::configureOAuth(Array)
+#1 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php(33): Bigcommerce\Api\Client::configure(Array)
+#2 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/test.php(7): include('/home/shopifyex...')
+#3 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php on line 101
+[22-Aug-2016 05:01:09 America/Chicago] PHP Fatal error:  Uncaught Exception: 'auth_token' must be provided in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php:101
+Stack trace:
+#0 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(80): Bigcommerce\Api\Client::configureOAuth(Array)
+#1 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php(33): Bigcommerce\Api\Client::configure(Array)
+#2 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/test.php(7): include('/home/shopifyex...')
+#3 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php on line 101
+[22-Aug-2016 05:09:56 America/Chicago] PHP Fatal error:  Uncaught Exception: 'auth_token' must be provided in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php:101
+Stack trace:
+#0 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(80): Bigcommerce\Api\Client::configureOAuth(Array)
+#1 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php(33): Bigcommerce\Api\Client::configure(Array)
+#2 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/test.php(7): include('/home/shopifyex...')
+#3 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php on line 101
+[22-Aug-2016 05:16:09 America/Chicago] PHP Fatal error:  Uncaught Exception: 'auth_token' must be provided in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php:101
+Stack trace:
+#0 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(80): Bigcommerce\Api\Client::configureOAuth(Array)
+#1 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php(33): Bigcommerce\Api\Client::configure(Array)
+#2 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/test.php(7): include('/home/shopifyex...')
+#3 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php on line 101
+[22-Aug-2016 05:24:59 America/Chicago] PHP Fatal error:  Uncaught Exception: 'auth_token' must be provided in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php:101
+Stack trace:
+#0 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(80): Bigcommerce\Api\Client::configureOAuth(Array)
+#1 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/auth.php(33): Bigcommerce\Api\Client::configure(Array)
+#2 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/test.php(7): include('/home/shopifyex...')
+#3 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php on line 101
+[22-Aug-2016 05:34:33 America/Chicago] PHP Fatal error:  Uncaught Exception: 'auth_token' must be provided in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php:101
+Stack trace:
+#0 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(80): Bigcommerce\Api\Client::configureOAuth(Array)
+#1 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/test.php(39): Bigcommerce\Api\Client::configure(Array)
+#2 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php on line 101
+[22-Aug-2016 05:37:30 America/Chicago] PHP Fatal error:  Uncaught Exception: 'auth_token' must be provided in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php:101
+Stack trace:
+#0 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php(80): Bigcommerce\Api\Client::configureOAuth(Array)
+#1 /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/test.php(41): Bigcommerce\Api\Client::configure(Array)
+#2 {main}
+  thrown in /home/shopifyexperts/public_html/apps/blinds/bigcpublicapp/src/Bigcommerce/Api/Client.php on line 101
